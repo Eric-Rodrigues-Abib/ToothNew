@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384202854328",
+    "project_id": "toothnow-2023",
+    "storage_bucket": "toothnow-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384202854328:android:8a6c007ad8181cd92ec94d",
+        "android_client_info": {
+          "package_name": "com.toothnow.toothapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384202854328-i9hjn9uf37ejk96ohtdhrdphl23qe3og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJeZmuS58-C7FHMW4gxxw5bfaFA7tXulY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384202854328-i9hjn9uf37ejk96ohtdhrdphl23qe3og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
